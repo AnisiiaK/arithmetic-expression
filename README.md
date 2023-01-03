@@ -55,8 +55,4 @@ the [`Expressions`](src/main/java/com/epam/rd/autotasks/arithmeticexpressions/Ex
     Example: `fraction(val(1), val(2)).toExpressionString()` results to `(1 / 2)`.
 
 
-**Important restriction:** Note that in this exercise you **may not** add more non-anonymous classes.
-
-### Examples
-
-See usage examples in tests inside [src/test/java](src/test/java).
+**Important restriction:** Note that in this exercise you **may not** add more non-anonymous classes
