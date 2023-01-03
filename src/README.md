@@ -1,9 +1,5 @@
 # Arithmetic Expressions
 
-The purpose of this exercise is to train using nested classes.
-
-Estimated workload of this exercise is _60 min_.
-
 ### Description
 
 In this exercise we are going to design a DSL of arithmetic expressions.
